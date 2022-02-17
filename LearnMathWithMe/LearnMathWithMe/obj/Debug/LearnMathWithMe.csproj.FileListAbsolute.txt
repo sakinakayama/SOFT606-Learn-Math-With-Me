@@ -1,0 +1,51 @@
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\bin\Debug\LearnMathWithMe.exe.config
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\bin\Debug\LearnMathWithMe.exe
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\bin\Debug\LearnMathWithMe.pdb
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.EditProfile.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Form1.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.GameHistory.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Login.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.MainMenu.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.MathTemplate.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Properties.Resources.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Register.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.ScoreReport.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.exe
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.pdb
+C:\Users\admin\OneDrive - Auckland Institute of Studies\Desktop\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\bin\Debug\LearnMathWithMe.exe.config
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\bin\Debug\LearnMathWithMe.exe
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\bin\Debug\LearnMathWithMe.pdb
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.EditProfile.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Form1.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.GameHistory.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Login.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.MainMenu.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.MathTemplate.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Properties.Resources.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Register.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.ScoreReport.resources
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.exe
+C:\Users\admin\OneDrive - Auckland Institute of Studies\DesktopAppFile\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.pdb
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\bin\Debug\LearnMathWithMe.exe.config
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\bin\Debug\LearnMathWithMe.exe
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\bin\Debug\LearnMathWithMe.pdb
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.csprojAssemblyReference.cache
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.EditProfile.resources
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Form1.resources
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.GameHistory.resources
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Login.resources
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.MainMenu.resources
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.MathTemplate.resources
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Properties.Resources.resources
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.Register.resources
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.ScoreReport.resources
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.csproj.GenerateResource.cache
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.csproj.CoreCompileInputs.cache
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.exe
+C:\Users\admin\GitHub\LearnMathWithMe\LearnMathWithMe\obj\Debug\LearnMathWithMe.pdb
